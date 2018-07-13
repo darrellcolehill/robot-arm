@@ -4,7 +4,7 @@ This repository stores all the methods I have used to control my robot arm which
 
 # The Web App Method
 
-1. To control the arm via a web app, download the (ADD FILE NAME HERE) to your computer.
+1. To control the arm via a web app, download the robot-arm-with-web-app folder to your computer.
 
 2. After downloading, open your command line and navigate to the (ADD NODEJS FILE HERE).
 
