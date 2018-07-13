@@ -4,7 +4,7 @@ console.log("program is running");
 var express = require("express");
 var app = express();
 
-//Creates server (add RPI's IP address after testing!!!!!!!)
+//Creates server
 var server = app.listen(8080, function(){
 	console.log("listening to port 8080");
 })
