@@ -6,7 +6,7 @@ This repository stores all the methods I have used to control my robot arm which
 
 1. To control the arm via a web app, download the robot-arm-with-web-app folder to your computer.
 
-2. After downloading, open your command line and navigate to the (ADD NODEJS FILE HERE).
+2. After downloading, open your command line and navigate to the robot-arm-online-controller.
 
 3. In the command prompt, run the following command 
 npm install express
